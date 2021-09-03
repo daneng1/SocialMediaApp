@@ -1,0 +1,10 @@
+* {
+  position: flex;
+  /* margin: 0 auto; */
+  justify-content: center;
+  align-items: center;
+}
+
+#header-el {
+  size: 30px;
+}
